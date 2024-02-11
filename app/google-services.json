@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282876799212",
+    "project_id": "wanderlog-2be0d",
+    "storage_bucket": "wanderlog-2be0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282876799212:android:9e5c297530efb672375dc9",
+        "android_client_info": {
+          "package_name": "com.example.registerlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEyFE7PuMjOykHYpE9NHhSN54xiBGaUzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
